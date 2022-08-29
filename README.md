@@ -21,7 +21,7 @@ A simple assembler written in c as the final project of course number 20465(The 
 
 ## <a name = "intro"></a>Introduction
 ### <a name = "about"></a>About The Course
-Course number 20465 is surrounded around learning ansi c. Throughout the course we've learned how to manipulate memory, use compilers and debuggers and overall produce elegant code in c.
+Course number 20465 is all about learning ansi c. Throughout the course we've learned how to manipulate memory, use compilers and debuggers and overall produce elegant code in c.
 The final project of the course was to write an assembler for an imaginary computer on which we will explain in the next paragraph.
 
 ### <a name = "imagine"></a>The Assembler And The Imaginary Computer
