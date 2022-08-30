@@ -77,7 +77,7 @@ it's fields are:
  - Word data - the list of encoded words
  - int dataLength - the amount of words encoded(varies from 0 - 4)
  - char op1 - the first operand's type
- - char op1 - the second operand's type
+ - char op2 - the second operand's type
 
 ```c
 struct EncodedData
