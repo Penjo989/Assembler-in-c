@@ -137,7 +137,7 @@ If everything goes well after the `linksLabels` function the assembler will go o
 for the linkage and loading stages(which are not part of this project as mentioned before).
 
 ## <a name = "error"></a>Error Handeling
-The project's error handeling is pretty simple. There is an external `error` variable which contains the state of the project. And there is a function called `raiseError` which 
+The project's error handeling is pretty simple. There is an external `error` variable which contains the state of the project, And there is a function called `raiseError` which 
 gets a string describing the error. When `raiseError` is called it changes `error` to `True` and print's the given string in addition to all the information about the error(such as file, line and error num).
 
 ```c
@@ -150,6 +150,6 @@ void raiseError(String errorStr)
 ```
 
 ## <a name = "sum"></a>Summary And Reflection
-After spending the last 2 weeks working in the project, we've come to the conclusion that it was very mind-opening and informative because not only did it make us feel more comfortable with c, it also brought us one step closer to understanding how computers work. 
+After spending the last 2 weeks working on the project, we've come to the conclusion that it was very mind-opening and informative because not only did it make us feel more comfortable with c, it also brought us one step closer to understanding how computers work. 
 
 We had a great time working on this project and we learned alot about how to work as a team and how to plan a pretty large scale program and execute it well, Therefore we think the project was totaly worth it.
